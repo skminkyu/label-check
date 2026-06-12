@@ -11,7 +11,7 @@
   "dependencies": {
     "@anthropic-ai/sdk": "^0.39.0",
     "axios": "^1.7.9",
-    "next": "15.3.4",
+    "next": "latest",
     "react": "^18",
     "react-dom": "^18",
     "react-dropzone": "^14.3.5",
